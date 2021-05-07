@@ -47,6 +47,5 @@ export const legendMap = [{
 ]
 
 export function filterLegend(legendArr) {
-    console.log(legendArr)
     return legendArr.map(legend => legendMap.find(item => item.value == legend))
 }

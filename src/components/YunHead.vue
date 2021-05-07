@@ -127,7 +127,7 @@ export default {
         height:auto;
         position: relative;
         text-align: center;
-        background-image: linear-gradient(to bottom,#052a3fde 93% , transparent 100%); 
+        background-image: linear-gradient(to bottom,#031820cb 36% , transparent 90%); 
         .todaydate{
             position: absolute;
             top:20px;
